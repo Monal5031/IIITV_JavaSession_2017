@@ -2,5 +2,5 @@
 Java Workshop Problems workouts
 <b>Workout Problems:</b>
       <ol type="1">
-        <li>1.Find side of triangle using for loop
+        <li>Find side of triangle using for loop
       </ol>
